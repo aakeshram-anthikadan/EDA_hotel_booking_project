@@ -32,16 +32,71 @@ Have you ever found yourself wondering when is the perfect time to book a hotel 
 
 To answer these pressing questions, this study leverages a comprehensive hotel booking dataset, offering a deep dive into booking patterns, guest behaviors, and revenue trends. By analyzing this dataset, we can uncover the key factors influencing pricing strategies, occupancy rates, and customer preferences. This exploration will provide valuable insights for both the hospitality industry and consumers, helping them make more informed decisions.
 
-#### **Define Your Business Objective?**
+## 📌 Business Objectives
+- Understand booking trends from hotel and customer perspectives
+- Analyze reasons for cancellations and suggest mitigation strategies
+- Identify the best time to book hotels and peak seasons
+- Provide actionable suggestions to:
+  - Reduce cancellations
+  - Increase hotel revenue
 
-Business objective is to understand and visualize dataset from hotel and customer point of view.
+## 🛠️ Solutions to Business Objectives
 
-Reasons for booking cancellations
+### 1. Reducing Cancellations
+**Key Findings:**
+- High lead time (early bookings) and past cancellations correlate with higher cancellation rates
+- Guests with fewer special requests or parking reservations are more likely to cancel
 
-Best time to book hotel
+**Recommendations:**
+- Introduce partial non-refundable deposits for early bookings
+- Offer discounts for non-cancelable reservations
+- Implement loyalty programs to retain repeat guests
 
-Peak season
+### 2. Best Time to Book & Peak Seasons
+**Key Findings:**
+- Moderate lead time (2–3 months) balances revenue and cancellation risks
+- Peak seasons vary by hotel type:
+  - City hotels: High demand year-round (business travel)
+  - Resort hotels: Summer months (vacation trends)
 
-suggestions to reduce cancellations
+**Recommendations:**
+- Promote early-bird discounts for resort stays
+- Use dynamic pricing during peak seasons (e.g., summer, holidays)
 
-increase revenue of hotels.
+### 3. Increasing Revenue
+**Key Findings:**
+- ADR (Average Daily Rate) peaks in July/August for city hotels
+- Guests booking parking or special requests are more committed
+
+**Recommendations:**
+- Upsell services (meals, spa, parking) during booking
+- Offer personalized discounts for direct bookings
+- Adjust weekend/weekday pricing (e.g., higher rates for leisure travelers on weekends)
+
+## 📊 Key Insights
+
+### Hotel Preferences
+- 62.34% prefer city hotels (business/short-term stays)
+- 37.66% choose resort hotels (seasonal demand)
+
+### Cancellation Drivers
+- Top factors: Long lead time, past cancellations, lack of special requests
+- Solution: Flexible rebooking options + stricter policies for high-risk bookings
+
+### Guest Demographics
+- Top countries: Portugal (PRT), UK (GBR), France (FRA)
+- Action: Targeted marketing in these regions
+
+### Revenue Optimization
+- Dynamic pricing: Higher rates in peak seasons, discounts for off-peak
+- Upselling: Bundle services (e.g., "Breakfast + Parking" deals)
+
+## 🎯 Conclusion
+To maximize revenue and minimize cancellations, hotels should:
+1. Adopt flexible pricing based on demand and lead time
+2. Incentivize direct bookings with loyalty programs
+3. Target high-value markets (e.g., Portugal, UK)
+4. Encourage guest commitment via special requests or deposits
+
+
+
